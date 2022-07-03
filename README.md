@@ -15,7 +15,7 @@
 Learn modern React by building 4 projects including a Firebase 9 app and a full stack MERN app<br>
 </p>
                                                                     
-<p><a href="https://www.udemy.com/course/react-front-to-back-2022/#instructor-1">Brad Traversy</a> <br>                                        </p>
+<p><a href="https://www.udemy.com/course/react-front-to-back-2022/">Brad Traversy</a> <br>                                        </p>
 
 ## DEMO:
 
