@@ -2,8 +2,8 @@
 <p>App to search Github users and display their info. This is part of my React Front To Back 2022 course and is the most up to date version of this project.</p>
 ## DEMO:
 https://github-finder-h21.vercel.app/
-                                                           
-                                                           ## Udemy Course :
+
+## Udemy Course :
 
 <p>React Front To Back 2022
 Learn modern React by building 4 projects including a Firebase 9 app and a full stack MERN app<br>
