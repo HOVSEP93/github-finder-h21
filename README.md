@@ -12,8 +12,7 @@ https://github-finder-h21.vercel.app/
 ![image!](./public/screen/4.jpg)
 ![image!](./public/screen/5.jpg)
 
-                                       </p>
-
+                                 
 
 
 <br> <h2>technology i use here:</h2>
